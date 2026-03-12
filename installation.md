@@ -14,7 +14,7 @@
 2. Run the installer
 3. Follow on-screen instructions
 
-![Installer Screen](images/install.png)
+<img src="images/install-screen.png" alt="<install-screen.png>" width="300">
 
 ---
 
