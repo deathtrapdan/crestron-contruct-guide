@@ -7,4 +7,4 @@ Also, to discover the platforms strengths and limits compared to VTPro.
 
 ---
 
-[Back to Index 🏠](./README.md) | [Next: About ➡](about.md)
+[Back to Index 🏠](./README.md) | [Next: Installation ➡](installation.md)

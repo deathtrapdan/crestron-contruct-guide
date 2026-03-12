@@ -18,4 +18,4 @@
 
 ---
 
-[⬅ Previous: About](about.md) | [Back to Index 🏠](./README.md) | [Next: Installation ➡](installation.md)
+[⬅ Previous: About](about.md) | [Back to Index 🏠](./README.md) | [Next: Placeholder ➡](placeholder.md)
