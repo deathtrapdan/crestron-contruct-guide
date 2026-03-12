@@ -1,4 +1,5 @@
 * [Home](/)
+  * [About](/about.md)
 * [Installation](/installation.md)
 * [Getting Started](/getting-started.md)
   * [Buttons](/placeholder.md)

@@ -18,4 +18,4 @@
 
 ---
 
-[Back to Index 🏠](./README.md) | [Next: Getting Started ➡](getting-started.md)
+[⬅ Previous: About](about.md) | [Back to Index 🏠](./README.md) | [Next: Installation ➡](installation.md)
