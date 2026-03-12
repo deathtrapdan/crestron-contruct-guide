@@ -18,4 +18,4 @@
 
 ---
 
-[⬅ Previous: Installation](installation.md) | [Back to Index 🏠](./README.md) | [Next: Troubleshooting ➡](troubleshooting.md)
+[Back to Index 🏠](./README.md) | [Next: Troubleshooting ➡](troubleshooting.md)

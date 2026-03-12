@@ -1,20 +1,11 @@
-# Usage
+# Getting Started
 
-## Starting the Application
-
-<img src="images/create-new-solution.png" alt="create-new-solution image" width="400">
+## New Project  
 
 1. Open the application
-2. Log in with your credentials
+2. Choose: Create New Solution
 
----
+<img src="images/create-new-solution.png" alt="create-new-solution image" width="300">
 
-## Creating a Project
-
-1. Click **New Project**
-2. Enter project name
-3. Click **Create**
-
----
 
 [⬅ Previous: Installation](installation.md) | [Back to Index 🏠](./README.md) | [Next: Troubleshooting ➡](troubleshooting.md)
