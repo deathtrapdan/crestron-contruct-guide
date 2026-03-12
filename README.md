@@ -40,5 +40,5 @@
 This document is an un-official User Guide for Crestron Construct.  
 
 It is put together as a documented exporation of the software to see how it works.  
-Also to discover the platforms strenghts and limits compared to VTPro.  
+Also to discover the platforms strengths and limits compared to VTPro.  
 
