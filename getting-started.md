@@ -2,6 +2,8 @@
 
 ## Starting the Application
 
+<img src="images/create-new-solution.png" alt="create-new-solution image" width="400">
+
 1. Open the application
 2. Log in with your credentials
 
