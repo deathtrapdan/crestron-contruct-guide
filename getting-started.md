@@ -1,3 +1,12 @@
+## 📚 Contents
+- [Home](README.md)
+- [Installation](installation.md)
+- [Usage](usage.md)
+- [Features](features.md)
+- [Troubleshooting](troubleshooting.md)
+
+---
+
 # Usage
 
 ## Starting the Application
