@@ -15,4 +15,4 @@
 
 ---
 
-[⬅ Previous: Installation](installation.md) | [Back to Index 🏠](guide.md) | [Next: Troubleshooting ➡](troubleshooting.md)
+[⬅ Previous: Installation](installation.md) | [Back to Index 🏠](README.md) | [Next: Troubleshooting ➡](troubleshooting.md)
